@@ -377,7 +377,7 @@ namespace Petzey.Consultations.UnitTest
             {
                 AppointmentId = 1,
                 Status = "confirmed"
-            }, 1);
+            });
 
             Assert.IsTrue(expected);
         }
@@ -393,7 +393,7 @@ namespace Petzey.Consultations.UnitTest
             {
                 AppointmentId = 1,
                 Status = "CANCELLED"
-            }, 1);
+            });
 
             Assert.IsTrue(expected);
         }
@@ -409,7 +409,7 @@ namespace Petzey.Consultations.UnitTest
             {
                 AppointmentId = 1,
                 Status = "OPen"
-            }, 1);
+            });
 
             Assert.IsFalse(expected);
         }

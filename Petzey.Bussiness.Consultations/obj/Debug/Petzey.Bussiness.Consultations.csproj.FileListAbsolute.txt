@@ -78,3 +78,19 @@ C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Petzey.Appointment\Petze
 C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Petzey.Appointment\PetzeyConsultationService\Petzey.Bussiness.Consultations\obj\Debug\Petzey.Bussiness.Consultations.csproj.CopyComplete
 C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Petzey.Appointment\PetzeyConsultationService\Petzey.Bussiness.Consultations\obj\Debug\Petzey.Bussiness.Consultations.dll
 C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Petzey.Appointment\PetzeyConsultationService\Petzey.Bussiness.Consultations\obj\Debug\Petzey.Bussiness.Consultations.pdb
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Bussiness.Consultations\obj\Debug\Petzey.Bussiness.Consultations.csproj.AssemblyReference.cache
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Bussiness.Consultations\obj\Debug\Petzey.Bussiness.Consultations.csproj.CoreCompileInputs.cache
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Bussiness.Consultations\obj\Debug\Petzey.Bussiness.Consultations.dll
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Bussiness.Consultations\obj\Debug\Petzey.Bussiness.Consultations.pdb
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Bussiness.Consultations\bin\Debug\Petzey.Bussiness.Consultations.dll
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Bussiness.Consultations\bin\Debug\Petzey.Bussiness.Consultations.pdb
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Bussiness.Consultations\bin\Debug\Petzey.DTO.Consultations.dll
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Bussiness.Consultations\bin\Debug\Petzey.Model.Consultations.dll
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Bussiness.Consultations\bin\Debug\Petzey.Repository.Consultations.dll
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Bussiness.Consultations\bin\Debug\EntityFramework.dll
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Bussiness.Consultations\bin\Debug\Petzey.DTO.Consultations.pdb
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Bussiness.Consultations\bin\Debug\Petzey.Model.Consultations.pdb
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Bussiness.Consultations\bin\Debug\Petzey.Repository.Consultations.pdb
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Bussiness.Consultations\bin\Debug\Petzey.Repository.Consultations.dll.config
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Bussiness.Consultations\bin\Debug\EntityFramework.xml
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Bussiness.Consultations\obj\Debug\Petzey.Bussiness.Consultations.csproj.CopyComplete

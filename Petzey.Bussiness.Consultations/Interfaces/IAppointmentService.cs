@@ -11,7 +11,7 @@ namespace Petzey.Bussiness.Consultations.Interfaces
     {
         AppointmentCardDTO CreateAppointment(AppointmentCreateFormDTO appointmentDTO);
         ICollection<AppointmentCardDTO> GetAllAppointmentsByRoleId(int roleId , string role, DateTime FromDate, DateTime ToDate);
-        ICollection<AppointmentBasicDetailsDTO> GetAllAppointmentFiltered(int doctorId, string status, DateTime FromDate, DateTime ToDate);
+        ICollection<AppointmentCardDTO> GetAllAppointmentFiltered(int doctorId, string status, DateTime FromDate, DateTime ToDate);
         ICollection<AppointmentCardDTO> GetAllAppointments();
         bool ChangeAppointmentStatus(AppointmentStatusDTO statusDTO);
         bool CloseAppointment(int appointmentId);

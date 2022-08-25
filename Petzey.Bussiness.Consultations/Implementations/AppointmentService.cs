@@ -70,14 +70,14 @@ namespace Petzey.Bussiness.Consultations.Implementations
         //    return result;
         //}
 
-        public ICollection<AppointmentBasicDetailsDTO> GetAllAppointmentFiltered(int doctorId, string status, DateTime FromDate, DateTime ToDate)
+        public ICollection<AppointmentCardDTO> GetAllAppointmentFiltered(int doctorId, string status, DateTime FromDate, DateTime ToDate)
         {
             AppointmentStatus appStatus = (AppointmentStatus)Enum.Parse(typeof(AppointmentStatus), status.ToUpper());
-            var appointments = repo.GetAllAppointmentFilterWithStatus(doctorId, appStatus, FromDate, ToDate).ToList();
-            ICollection<AppointmentBasicDetailsDTO> result = new List<AppointmentBasicDetailsDTO>();
+            ICollection<Appointment> appointments = repo.GetAllAppointmentFilterWithStatus(doctorId, appStatus, FromDate, ToDate).ToList();
+            ICollection<AppointmentCardDTO> result = new List<AppointmentCardDTO>();
             foreach (var appointment in appointments)
             {
-                result.Add(service.ConvertToAppointmentBasicInfoDTO(appointment));
+                result.Add(service.ConvertToCardDTO(appointment));
             }
             return result;
         }

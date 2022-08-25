@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.7.922.0">
-  <Summary numSequencePoints="5351" visitedSequencePoints="900" numBranchPoints="3897" visitedBranchPoints="508" sequenceCoverage="16.82" branchCoverage="13.04" maxCyclomaticComplexity="34" minCyclomaticComplexity="1" maxCrapScore="812" minCrapScore="1" visitedClasses="76" numClasses="324" visitedMethods="288" numMethods="1733" />
+  <Summary numSequencePoints="5351" visitedSequencePoints="900" numBranchPoints="3915" visitedBranchPoints="514" sequenceCoverage="16.82" branchCoverage="13.13" maxCyclomaticComplexity="34" minCyclomaticComplexity="1" maxCrapScore="812" minCrapScore="1" visitedClasses="76" numClasses="324" visitedMethods="288" numMethods="1733" />
   <Modules>
     <Module hash="8C-50-A3-2F-52-4D-AC-CC-CB-E6-35-B3-4C-24-B1-38-51-5D-3A-E5">
       <Summary numSequencePoints="176" visitedSequencePoints="158" numBranchPoints="64" visitedBranchPoints="41" sequenceCoverage="89.77" branchCoverage="64.06" maxCyclomaticComplexity="2" minCyclomaticComplexity="1" maxCrapScore="6" minCrapScore="1" visitedClasses="2" numClasses="2" visitedMethods="29" numMethods="38" />
-      <ModulePath>C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Petzey.Appointment\PetzeyConsultationService\Petzey.Consultations.UnitTest\bin\Debug\fine-code-coverage\build-output\Petzey.Consultations.UnitTest.dll</ModulePath>
+      <ModulePath>C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Consultations.UnitTest\bin\Debug\fine-code-coverage\build-output\Petzey.Consultations.UnitTest.dll</ModulePath>
       <ModuleTime>2022-08-20T09:00:54.4909176Z</ModuleTime>
       <ModuleName>Petzey.Consultations.UnitTest</ModuleName>
       <Files>
@@ -721,8 +721,8 @@
       </Classes>
     </Module>
     <Module hash="5A-D3-B3-74-16-23-DE-A2-5F-08-D1-16-FD-AF-F0-93-4D-34-EE-9A">
-      <Summary numSequencePoints="356" visitedSequencePoints="84" numBranchPoints="111" visitedBranchPoints="28" sequenceCoverage="23.60" branchCoverage="25.23" maxCyclomaticComplexity="9" minCyclomaticComplexity="1" maxCrapScore="42" minCrapScore="1" visitedClasses="3" numClasses="10" visitedMethods="9" numMethods="63" />
-      <ModulePath>C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Petzey.Appointment\PetzeyConsultationService\Petzey.Consultations.UnitTest\bin\Debug\fine-code-coverage\build-output\Petzey.Bussiness.Consultations.dll</ModulePath>
+      <Summary numSequencePoints="356" visitedSequencePoints="84" numBranchPoints="129" visitedBranchPoints="34" sequenceCoverage="23.60" branchCoverage="26.36" maxCyclomaticComplexity="9" minCyclomaticComplexity="1" maxCrapScore="42" minCrapScore="1" visitedClasses="3" numClasses="10" visitedMethods="9" numMethods="63" />
+      <ModulePath>C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Consultations.UnitTest\bin\Debug\fine-code-coverage\build-output\Petzey.Bussiness.Consultations.dll</ModulePath>
       <ModuleTime>2022-08-19T19:20:55.0610479Z</ModuleTime>
       <ModuleName>Petzey.Bussiness.Consultations</ModuleName>
       <Files>
@@ -739,7 +739,7 @@
       </Files>
       <Classes>
         <Class>
-          <Summary numSequencePoints="70" visitedSequencePoints="0" numBranchPoints="19" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="3" minCyclomaticComplexity="1" maxCrapScore="12" minCrapScore="2" visitedClasses="0" numClasses="1" visitedMethods="0" numMethods="17" />
+          <Summary numSequencePoints="70" visitedSequencePoints="0" numBranchPoints="23" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="3" minCyclomaticComplexity="1" maxCrapScore="12" minCrapScore="2" visitedClasses="0" numClasses="1" visitedMethods="0" numMethods="17" />
           <FullName>Petzey.Bussiness.Consultations.MappingService.AppointmentMappingService</FullName>
           <Methods>
             <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
@@ -796,8 +796,8 @@
               <BranchPoints />
               <MethodPoint xsi:type="SequencePoint" vc="0" uspid="228" ordinal="0" offset="0" sl="69" sc="9" el="69" ec="10" bec="0" bev="0" fileid="5" />
             </Method>
-            <Method visited="false" cyclomaticComplexity="3" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="12" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
-              <Summary numSequencePoints="11" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="3" minCyclomaticComplexity="3" maxCrapScore="12" minCrapScore="12" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+            <Method visited="false" cyclomaticComplexity="3" nPathComplexity="2" sequenceCoverage="0" branchCoverage="0" crapScore="12" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="11" visitedSequencePoints="0" numBranchPoints="3" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="3" minCyclomaticComplexity="3" maxCrapScore="12" minCrapScore="12" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
               <MetadataToken>100663301</MetadataToken>
               <Name>System.Collections.Generic.ICollection`1&lt;Petzey.DTO.Consultations.SymptomDTO&gt; Petzey.Bussiness.Consultations.MappingService.AppointmentMappingService::ConvertToListSymptomDTO(System.Collections.Generic.ICollection`1&lt;Petzey.Model.Consultations.Symptom&gt;)</Name>
               <FileRef uid="5" />
@@ -810,11 +810,14 @@
                 <SequencePoint vc="0" uspid="236" ordinal="5" offset="24" sl="81" sc="13" el="81" ec="14" bec="0" bev="0" fileid="5" />
                 <SequencePoint vc="0" uspid="237" ordinal="6" offset="25" sl="82" sc="17" el="82" ec="63" bec="0" bev="0" fileid="5" />
                 <SequencePoint vc="0" uspid="238" ordinal="7" offset="39" sl="83" sc="13" el="83" ec="14" bec="0" bev="0" fileid="5" />
-                <SequencePoint vc="0" uspid="239" ordinal="8" offset="40" sl="80" sc="33" el="80" ec="35" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="239" ordinal="8" offset="40" sl="80" sc="33" el="80" ec="35" bec="2" bev="0" fileid="5" />
                 <SequencePoint vc="0" uspid="240" ordinal="9" offset="61" sl="84" sc="13" el="84" ec="32" bec="0" bev="0" fileid="5" />
                 <SequencePoint vc="0" uspid="241" ordinal="10" offset="65" sl="85" sc="9" el="85" ec="10" bec="0" bev="0" fileid="5" />
               </SequencePoints>
-              <BranchPoints />
+              <BranchPoints>
+                <BranchPoint vc="0" uspid="242" ordinal="0" offset="46" sl="80" path="0" offsetend="48" fileid="5" />
+                <BranchPoint vc="0" uspid="243" ordinal="1" offset="46" sl="80" path="1" offsetend="17" fileid="5" />
+              </BranchPoints>
               <MethodPoint xsi:type="SequencePoint" vc="0" uspid="231" ordinal="0" offset="0" sl="78" sc="9" el="78" ec="10" bec="0" bev="0" fileid="5" />
             </Method>
             <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
@@ -843,8 +846,8 @@
               <BranchPoints />
               <MethodPoint xsi:type="SequencePoint" vc="0" uspid="247" ordinal="0" offset="0" sl="99" sc="9" el="99" ec="10" bec="0" bev="0" fileid="5" />
             </Method>
-            <Method visited="false" cyclomaticComplexity="3" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="12" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
-              <Summary numSequencePoints="11" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="3" minCyclomaticComplexity="3" maxCrapScore="12" minCrapScore="12" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+            <Method visited="false" cyclomaticComplexity="3" nPathComplexity="2" sequenceCoverage="0" branchCoverage="0" crapScore="12" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="11" visitedSequencePoints="0" numBranchPoints="3" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="3" minCyclomaticComplexity="3" maxCrapScore="12" minCrapScore="12" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
               <MetadataToken>100663304</MetadataToken>
               <Name>System.Collections.Generic.ICollection`1&lt;Petzey.DTO.Consultations.TestDTO&gt; Petzey.Bussiness.Consultations.MappingService.AppointmentMappingService::ConvertToListTestDTO(System.Collections.Generic.ICollection`1&lt;Petzey.Model.Consultations.Test&gt;)</Name>
               <FileRef uid="5" />
@@ -857,11 +860,14 @@
                 <SequencePoint vc="0" uspid="255" ordinal="5" offset="24" sl="114" sc="13" el="114" ec="14" bec="0" bev="0" fileid="5" />
                 <SequencePoint vc="0" uspid="256" ordinal="6" offset="25" sl="115" sc="17" el="115" ec="54" bec="0" bev="0" fileid="5" />
                 <SequencePoint vc="0" uspid="257" ordinal="7" offset="39" sl="116" sc="13" el="116" ec="14" bec="0" bev="0" fileid="5" />
-                <SequencePoint vc="0" uspid="258" ordinal="8" offset="40" sl="113" sc="31" el="113" ec="33" bec="0" bev="0" fileid="5" />
+                <SequencePoint vc="0" uspid="258" ordinal="8" offset="40" sl="113" sc="31" el="113" ec="33" bec="2" bev="0" fileid="5" />
                 <SequencePoint vc="0" uspid="259" ordinal="9" offset="61" sl="117" sc="13" el="117" ec="29" bec="0" bev="0" fileid="5" />
                 <SequencePoint vc="0" uspid="260" ordinal="10" offset="65" sl="118" sc="9" el="118" ec="10" bec="0" bev="0" fileid="5" />
               </SequencePoints>
-              <BranchPoints />
+              <BranchPoints>
+                <BranchPoint vc="0" uspid="261" ordinal="0" offset="46" sl="113" path="0" offsetend="48" fileid="5" />
+                <BranchPoint vc="0" uspid="262" ordinal="1" offset="46" sl="113" path="1" offsetend="17" fileid="5" />
+              </BranchPoints>
               <MethodPoint xsi:type="SequencePoint" vc="0" uspid="250" ordinal="0" offset="0" sl="111" sc="9" el="111" ec="10" bec="0" bev="0" fileid="5" />
             </Method>
             <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
@@ -1046,7 +1052,7 @@
           </Methods>
         </Class>
         <Class>
-          <Summary numSequencePoints="50" visitedSequencePoints="0" numBranchPoints="14" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="6" minCyclomaticComplexity="1" maxCrapScore="42" minCrapScore="2" visitedClasses="0" numClasses="1" visitedMethods="0" numMethods="6" />
+          <Summary numSequencePoints="50" visitedSequencePoints="0" numBranchPoints="18" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="6" minCyclomaticComplexity="1" maxCrapScore="42" minCrapScore="2" visitedClasses="0" numClasses="1" visitedMethods="0" numMethods="6" />
           <FullName>Petzey.Bussiness.Consultations.MappingService.Implementations.PrescriptionMappingService</FullName>
           <Methods>
             <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
@@ -1076,8 +1082,8 @@
               <BranchPoints />
               <MethodPoint xsi:type="SequencePoint" vc="0" uspid="309" ordinal="0" offset="0" sl="25" sc="9" el="25" ec="10" bec="0" bev="0" fileid="7" />
             </Method>
-            <Method visited="false" cyclomaticComplexity="3" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="12" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
-              <Summary numSequencePoints="11" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="3" minCyclomaticComplexity="3" maxCrapScore="12" minCrapScore="12" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+            <Method visited="false" cyclomaticComplexity="3" nPathComplexity="2" sequenceCoverage="0" branchCoverage="0" crapScore="12" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="11" visitedSequencePoints="0" numBranchPoints="3" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="3" minCyclomaticComplexity="3" maxCrapScore="12" minCrapScore="12" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
               <MetadataToken>100663339</MetadataToken>
               <Name>System.Collections.Generic.ICollection`1&lt;Petzey.Model.Consultations.Medicine&gt; Petzey.Bussiness.Consultations.MappingService.Implementations.PrescriptionMappingService::ConvertToListOfMedicine(System.Collections.Generic.ICollection`1&lt;Petzey.DTO.Consultations.AddMedicineDTO&gt;)</Name>
               <FileRef uid="7" />
@@ -1090,15 +1096,18 @@
                 <SequencePoint vc="0" uspid="317" ordinal="5" offset="24" sl="37" sc="13" el="37" ec="14" bec="0" bev="0" fileid="7" />
                 <SequencePoint vc="0" uspid="318" ordinal="6" offset="25" sl="38" sc="17" el="38" ec="52" bec="0" bev="0" fileid="7" />
                 <SequencePoint vc="0" uspid="319" ordinal="7" offset="39" sl="39" sc="13" el="39" ec="14" bec="0" bev="0" fileid="7" />
-                <SequencePoint vc="0" uspid="320" ordinal="8" offset="40" sl="36" sc="30" el="36" ec="32" bec="0" bev="0" fileid="7" />
+                <SequencePoint vc="0" uspid="320" ordinal="8" offset="40" sl="36" sc="30" el="36" ec="32" bec="2" bev="0" fileid="7" />
                 <SequencePoint vc="0" uspid="321" ordinal="9" offset="61" sl="40" sc="13" el="40" ec="27" bec="0" bev="0" fileid="7" />
                 <SequencePoint vc="0" uspid="322" ordinal="10" offset="65" sl="41" sc="9" el="41" ec="10" bec="0" bev="0" fileid="7" />
               </SequencePoints>
-              <BranchPoints />
+              <BranchPoints>
+                <BranchPoint vc="0" uspid="323" ordinal="0" offset="46" sl="36" path="0" offsetend="48" fileid="7" />
+                <BranchPoint vc="0" uspid="324" ordinal="1" offset="46" sl="36" path="1" offsetend="17" fileid="7" />
+              </BranchPoints>
               <MethodPoint xsi:type="SequencePoint" vc="0" uspid="312" ordinal="0" offset="0" sl="34" sc="9" el="34" ec="10" bec="0" bev="0" fileid="7" />
             </Method>
-            <Method visited="false" cyclomaticComplexity="3" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="12" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
-              <Summary numSequencePoints="11" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="3" minCyclomaticComplexity="3" maxCrapScore="12" minCrapScore="12" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+            <Method visited="false" cyclomaticComplexity="3" nPathComplexity="2" sequenceCoverage="0" branchCoverage="0" crapScore="12" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="11" visitedSequencePoints="0" numBranchPoints="3" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="3" minCyclomaticComplexity="3" maxCrapScore="12" minCrapScore="12" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
               <MetadataToken>100663340</MetadataToken>
               <Name>System.Collections.Generic.ICollection`1&lt;Petzey.DTO.Consultations.AddMedicineDTO&gt; Petzey.Bussiness.Consultations.MappingService.Implementations.PrescriptionMappingService::ConvertToListOfMedicineDTO(System.Collections.Generic.ICollection`1&lt;Petzey.Model.Consultations.Medicine&gt;)</Name>
               <FileRef uid="7" />
@@ -1111,11 +1120,14 @@
                 <SequencePoint vc="0" uspid="330" ordinal="5" offset="24" sl="46" sc="13" el="46" ec="14" bec="0" bev="0" fileid="7" />
                 <SequencePoint vc="0" uspid="331" ordinal="6" offset="25" sl="47" sc="17" el="47" ec="55" bec="0" bev="0" fileid="7" />
                 <SequencePoint vc="0" uspid="332" ordinal="7" offset="39" sl="48" sc="13" el="48" ec="14" bec="0" bev="0" fileid="7" />
-                <SequencePoint vc="0" uspid="333" ordinal="8" offset="40" sl="45" sc="30" el="45" ec="32" bec="0" bev="0" fileid="7" />
+                <SequencePoint vc="0" uspid="333" ordinal="8" offset="40" sl="45" sc="30" el="45" ec="32" bec="2" bev="0" fileid="7" />
                 <SequencePoint vc="0" uspid="334" ordinal="9" offset="61" sl="49" sc="13" el="49" ec="27" bec="0" bev="0" fileid="7" />
                 <SequencePoint vc="0" uspid="335" ordinal="10" offset="65" sl="50" sc="9" el="50" ec="10" bec="0" bev="0" fileid="7" />
               </SequencePoints>
-              <BranchPoints />
+              <BranchPoints>
+                <BranchPoint vc="0" uspid="336" ordinal="0" offset="46" sl="45" path="0" offsetend="48" fileid="7" />
+                <BranchPoint vc="0" uspid="337" ordinal="1" offset="46" sl="45" path="1" offsetend="17" fileid="7" />
+              </BranchPoints>
               <MethodPoint xsi:type="SequencePoint" vc="0" uspid="325" ordinal="0" offset="0" sl="43" sc="9" el="43" ec="10" bec="0" bev="0" fileid="7" />
             </Method>
             <Method visited="false" cyclomaticComplexity="6" nPathComplexity="16" sequenceCoverage="0" branchCoverage="0" crapScore="42" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
@@ -1243,7 +1255,7 @@
           </Methods>
         </Class>
         <Class>
-          <Summary numSequencePoints="172" visitedSequencePoints="78" numBranchPoints="59" visitedBranchPoints="26" sequenceCoverage="45.35" branchCoverage="44.07" maxCyclomaticComplexity="9" minCyclomaticComplexity="1" maxCrapScore="30" minCrapScore="1" visitedClasses="1" numClasses="1" visitedMethods="7" numMethods="21" />
+          <Summary numSequencePoints="172" visitedSequencePoints="78" numBranchPoints="69" visitedBranchPoints="32" sequenceCoverage="45.35" branchCoverage="46.38" maxCyclomaticComplexity="9" minCyclomaticComplexity="1" maxCrapScore="30" minCrapScore="1" visitedClasses="1" numClasses="1" visitedMethods="7" numMethods="21" />
           <FullName>Petzey.Bussiness.Consultations.Implementations.AppointmentService</FullName>
           <Methods>
             <Method visited="true" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="100" branchCoverage="100" crapScore="1" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
@@ -1305,8 +1317,8 @@
               </BranchPoints>
               <MethodPoint xsi:type="SequencePoint" vc="7" uspid="389" ordinal="0" offset="0" sl="43" sc="9" el="43" ec="10" bec="0" bev="0" fileid="10" />
             </Method>
-            <Method visited="true" cyclomaticComplexity="3" nPathComplexity="0" sequenceCoverage="100" branchCoverage="100" crapScore="3" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
-              <Summary numSequencePoints="13" visitedSequencePoints="13" numBranchPoints="1" visitedBranchPoints="1" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="3" minCyclomaticComplexity="3" maxCrapScore="3" minCrapScore="3" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+            <Method visited="true" cyclomaticComplexity="3" nPathComplexity="2" sequenceCoverage="100" branchCoverage="100" crapScore="3" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="13" visitedSequencePoints="13" numBranchPoints="3" visitedBranchPoints="3" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="3" minCyclomaticComplexity="3" maxCrapScore="3" minCrapScore="3" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
               <MetadataToken>100663375</MetadataToken>
               <Name>System.Collections.Generic.ICollection`1&lt;Petzey.DTO.Consultations.AppointmentBasicDetailsDTO&gt; Petzey.Bussiness.Consultations.Implementations.AppointmentService::GetAllAppointmentFiltered(System.Int32,System.String,System.DateTime,System.DateTime)</Name>
               <FileRef uid="10" />
@@ -1321,11 +1333,14 @@
                 <SequencePoint vc="3" uspid="425" ordinal="7" offset="74" sl="79" sc="13" el="79" ec="14" bec="0" bev="0" fileid="10" />
                 <SequencePoint vc="3" uspid="426" ordinal="8" offset="75" sl="80" sc="17" el="80" ec="83" bec="0" bev="0" fileid="10" />
                 <SequencePoint vc="3" uspid="427" ordinal="9" offset="95" sl="81" sc="13" el="81" ec="14" bec="0" bev="0" fileid="10" />
-                <SequencePoint vc="7" uspid="428" ordinal="10" offset="96" sl="78" sc="38" el="78" ec="40" bec="0" bev="0" fileid="10" />
+                <SequencePoint vc="7" uspid="428" ordinal="10" offset="96" sl="78" sc="38" el="78" ec="40" bec="2" bev="2" fileid="10" />
                 <SequencePoint vc="4" uspid="429" ordinal="11" offset="117" sl="82" sc="13" el="82" ec="27" bec="0" bev="0" fileid="10" />
                 <SequencePoint vc="4" uspid="430" ordinal="12" offset="122" sl="83" sc="9" el="83" ec="10" bec="0" bev="0" fileid="10" />
               </SequencePoints>
-              <BranchPoints />
+              <BranchPoints>
+                <BranchPoint vc="4" uspid="431" ordinal="0" offset="102" sl="78" path="0" offsetend="104" fileid="10" />
+                <BranchPoint vc="3" uspid="432" ordinal="1" offset="102" sl="78" path="1" offsetend="66" fileid="10" />
+              </BranchPoints>
               <MethodPoint xsi:type="SequencePoint" vc="4" uspid="418" ordinal="0" offset="0" sl="74" sc="9" el="74" ec="10" bec="0" bev="0" fileid="10" />
             </Method>
             <Method visited="true" cyclomaticComplexity="3" nPathComplexity="4" sequenceCoverage="100" branchCoverage="100" crapScore="3" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
@@ -1359,8 +1374,8 @@
               </BranchPoints>
               <MethodPoint xsi:type="SequencePoint" vc="3" uspid="433" ordinal="0" offset="0" sl="86" sc="9" el="86" ec="10" bec="0" bev="0" fileid="10" />
             </Method>
-            <Method visited="true" cyclomaticComplexity="8" nPathComplexity="32" sequenceCoverage="69.57" branchCoverage="45.45" crapScore="9.80" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
-              <Summary numSequencePoints="23" visitedSequencePoints="16" numBranchPoints="11" visitedBranchPoints="5" sequenceCoverage="69.57" branchCoverage="45.45" maxCyclomaticComplexity="8" minCyclomaticComplexity="8" maxCrapScore="9.80" minCrapScore="9.80" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+            <Method visited="true" cyclomaticComplexity="8" nPathComplexity="64" sequenceCoverage="69.57" branchCoverage="53.85" crapScore="9.80" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="23" visitedSequencePoints="16" numBranchPoints="13" visitedBranchPoints="7" sequenceCoverage="69.57" branchCoverage="53.85" maxCyclomaticComplexity="8" minCyclomaticComplexity="8" maxCrapScore="9.80" minCrapScore="9.80" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
               <MetadataToken>100663377</MetadataToken>
               <Name>System.Collections.Generic.ICollection`1&lt;Petzey.DTO.Consultations.AppointmentCardDTO&gt; Petzey.Bussiness.Consultations.Implementations.AppointmentService::GetAllAppointmentsByRoleId(System.Int32,System.String,System.DateTime,System.DateTime)</Name>
               <FileRef uid="10" />
@@ -1385,7 +1400,7 @@
                 <SequencePoint vc="5" uspid="470" ordinal="17" offset="183" sl="127" sc="13" el="127" ec="14" bec="0" bev="0" fileid="10" />
                 <SequencePoint vc="5" uspid="471" ordinal="18" offset="184" sl="128" sc="17" el="128" ec="76" bec="0" bev="0" fileid="10" />
                 <SequencePoint vc="5" uspid="472" ordinal="19" offset="204" sl="129" sc="13" el="129" ec="14" bec="0" bev="0" fileid="10" />
-                <SequencePoint vc="7" uspid="473" ordinal="20" offset="205" sl="126" sc="38" el="126" ec="40" bec="0" bev="0" fileid="10" />
+                <SequencePoint vc="7" uspid="473" ordinal="20" offset="205" sl="126" sc="38" el="126" ec="40" bec="2" bev="2" fileid="10" />
                 <SequencePoint vc="2" uspid="474" ordinal="21" offset="229" sl="130" sc="13" el="130" ec="36" bec="0" bev="0" fileid="10" />
                 <SequencePoint vc="2" uspid="475" ordinal="22" offset="234" sl="131" sc="9" el="131" ec="10" bec="0" bev="0" fileid="10" />
               </SequencePoints>
@@ -1400,6 +1415,8 @@
                 <BranchPoint vc="0" uspid="483" ordinal="7" offset="135" sl="122" path="1" offsetend="143" fileid="10" />
                 <BranchPoint vc="0" uspid="484" ordinal="8" offset="148" sl="122" path="0" offsetend="150" fileid="10" />
                 <BranchPoint vc="2" uspid="485" ordinal="9" offset="148" sl="122" path="1" offsetend="163" fileid="10" />
+                <BranchPoint vc="2" uspid="486" ordinal="10" offset="212" sl="126" path="0" offsetend="214" fileid="10" />
+                <BranchPoint vc="5" uspid="487" ordinal="11" offset="212" sl="126" path="1" offsetend="174" fileid="10" />
               </BranchPoints>
               <MethodPoint xsi:type="SequencePoint" vc="2" uspid="453" ordinal="0" offset="0" sl="105" sc="9" el="105" ec="10" bec="0" bev="0" fileid="10" />
             </Method>
@@ -1443,8 +1460,8 @@
               <BranchPoints />
               <MethodPoint xsi:type="SequencePoint" vc="0" uspid="495" ordinal="0" offset="0" sl="146" sc="9" el="146" ec="10" bec="0" bev="0" fileid="10" />
             </Method>
-            <Method visited="false" cyclomaticComplexity="5" nPathComplexity="4" sequenceCoverage="0" branchCoverage="0" crapScore="30" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
-              <Summary numSequencePoints="15" visitedSequencePoints="0" numBranchPoints="5" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="5" minCyclomaticComplexity="5" maxCrapScore="30" minCrapScore="30" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+            <Method visited="false" cyclomaticComplexity="5" nPathComplexity="8" sequenceCoverage="0" branchCoverage="0" crapScore="30" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="15" visitedSequencePoints="0" numBranchPoints="7" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="5" minCyclomaticComplexity="5" maxCrapScore="30" minCrapScore="30" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
               <MetadataToken>100663381</MetadataToken>
               <Name>System.Collections.Generic.ICollection`1&lt;Petzey.DTO.Consultations.AppointmentCardDTO&gt; Petzey.Bussiness.Consultations.Implementations.AppointmentService::GetAllAppointmentsByDate(System.Int32,System.DateTime,System.DateTime)</Name>
               <FileRef uid="10" />
@@ -1461,7 +1478,7 @@
                 <SequencePoint vc="0" uspid="507" ordinal="9" offset="72" sl="159" sc="13" el="159" ec="14" bec="0" bev="0" fileid="10" />
                 <SequencePoint vc="0" uspid="508" ordinal="10" offset="73" sl="160" sc="17" el="160" ec="80" bec="0" bev="0" fileid="10" />
                 <SequencePoint vc="0" uspid="509" ordinal="11" offset="93" sl="161" sc="13" el="161" ec="14" bec="0" bev="0" fileid="10" />
-                <SequencePoint vc="0" uspid="510" ordinal="12" offset="94" sl="158" sc="38" el="158" ec="40" bec="0" bev="0" fileid="10" />
+                <SequencePoint vc="0" uspid="510" ordinal="12" offset="94" sl="158" sc="38" el="158" ec="40" bec="2" bev="0" fileid="10" />
                 <SequencePoint vc="0" uspid="511" ordinal="13" offset="115" sl="162" sc="13" el="162" ec="40" bec="0" bev="0" fileid="10" />
                 <SequencePoint vc="0" uspid="512" ordinal="14" offset="120" sl="163" sc="9" el="163" ec="10" bec="0" bev="0" fileid="10" />
               </SequencePoints>
@@ -1470,11 +1487,13 @@
                 <BranchPoint vc="0" uspid="514" ordinal="1" offset="28" sl="154" path="1" offsetend="36" fileid="10" />
                 <BranchPoint vc="0" uspid="515" ordinal="2" offset="39" sl="154" path="0" offsetend="41" fileid="10" />
                 <BranchPoint vc="0" uspid="516" ordinal="3" offset="39" sl="154" path="1" offsetend="54" fileid="10" />
+                <BranchPoint vc="0" uspid="517" ordinal="4" offset="100" sl="158" path="0" offsetend="102" fileid="10" />
+                <BranchPoint vc="0" uspid="518" ordinal="5" offset="100" sl="158" path="1" offsetend="64" fileid="10" />
               </BranchPoints>
               <MethodPoint xsi:type="SequencePoint" vc="0" uspid="498" ordinal="0" offset="0" sl="151" sc="9" el="151" ec="10" bec="0" bev="0" fileid="10" />
             </Method>
-            <Method visited="true" cyclomaticComplexity="5" nPathComplexity="4" sequenceCoverage="92.86" branchCoverage="60" crapScore="5.01" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
-              <Summary numSequencePoints="14" visitedSequencePoints="13" numBranchPoints="5" visitedBranchPoints="3" sequenceCoverage="92.86" branchCoverage="60" maxCyclomaticComplexity="5" minCyclomaticComplexity="5" maxCrapScore="5.01" minCrapScore="5.01" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
+            <Method visited="true" cyclomaticComplexity="5" nPathComplexity="8" sequenceCoverage="92.86" branchCoverage="71.43" crapScore="5.01" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="14" visitedSequencePoints="13" numBranchPoints="7" visitedBranchPoints="5" sequenceCoverage="92.86" branchCoverage="71.43" maxCyclomaticComplexity="5" minCyclomaticComplexity="5" maxCrapScore="5.01" minCrapScore="5.01" visitedClasses="0" numClasses="0" visitedMethods="1" numMethods="1" />
               <MetadataToken>100663382</MetadataToken>
               <Name>System.Collections.Generic.ICollection`1&lt;Petzey.DTO.Consultations.AppointmentCardDTO&gt; Petzey.Bussiness.Consultations.Implementations.AppointmentService::GetAllAppointments()</Name>
               <FileRef uid="10" />
@@ -1490,7 +1509,7 @@
                 <SequencePoint vc="3" uspid="527" ordinal="8" offset="68" sl="171" sc="13" el="171" ec="14" bec="0" bev="0" fileid="10" />
                 <SequencePoint vc="3" uspid="528" ordinal="9" offset="69" sl="172" sc="17" el="172" ec="80" bec="0" bev="0" fileid="10" />
                 <SequencePoint vc="3" uspid="529" ordinal="10" offset="89" sl="173" sc="13" el="173" ec="14" bec="0" bev="0" fileid="10" />
-                <SequencePoint vc="4" uspid="530" ordinal="11" offset="90" sl="170" sc="37" el="170" ec="39" bec="0" bev="0" fileid="10" />
+                <SequencePoint vc="4" uspid="530" ordinal="11" offset="90" sl="170" sc="37" el="170" ec="39" bec="2" bev="2" fileid="10" />
                 <SequencePoint vc="1" uspid="531" ordinal="12" offset="111" sl="174" sc="13" el="174" ec="40" bec="0" bev="0" fileid="10" />
                 <SequencePoint vc="1" uspid="532" ordinal="13" offset="116" sl="175" sc="9" el="175" ec="10" bec="0" bev="0" fileid="10" />
               </SequencePoints>
@@ -1499,6 +1518,8 @@
                 <BranchPoint vc="0" uspid="534" ordinal="1" offset="20" sl="169" path="1" offsetend="33" fileid="10" />
                 <BranchPoint vc="0" uspid="535" ordinal="2" offset="36" sl="169" path="0" offsetend="38" fileid="10" />
                 <BranchPoint vc="1" uspid="536" ordinal="3" offset="36" sl="169" path="1" offsetend="50" fileid="10" />
+                <BranchPoint vc="1" uspid="537" ordinal="4" offset="96" sl="170" path="0" offsetend="98" fileid="10" />
+                <BranchPoint vc="3" uspid="538" ordinal="5" offset="96" sl="170" path="1" offsetend="60" fileid="10" />
               </BranchPoints>
               <MethodPoint xsi:type="SequencePoint" vc="1" uspid="519" ordinal="0" offset="0" sl="166" sc="9" el="166" ec="10" bec="0" bev="0" fileid="10" />
             </Method>
@@ -1605,8 +1626,8 @@
               <BranchPoints />
               <MethodPoint xsi:type="SequencePoint" vc="0" uspid="567" ordinal="0" offset="0" sl="219" sc="9" el="219" ec="10" bec="0" bev="0" fileid="10" />
             </Method>
-            <Method visited="false" cyclomaticComplexity="3" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="12" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
-              <Summary numSequencePoints="12" visitedSequencePoints="0" numBranchPoints="1" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="3" minCyclomaticComplexity="3" maxCrapScore="12" minCrapScore="12" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
+            <Method visited="false" cyclomaticComplexity="3" nPathComplexity="2" sequenceCoverage="0" branchCoverage="0" crapScore="12" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <Summary numSequencePoints="12" visitedSequencePoints="0" numBranchPoints="3" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="3" minCyclomaticComplexity="3" maxCrapScore="12" minCrapScore="12" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="1" />
               <MetadataToken>100663390</MetadataToken>
               <Name>System.Collections.Generic.ICollection`1&lt;Petzey.DTO.Consultations.TestDTO&gt; Petzey.Bussiness.Consultations.Implementations.AppointmentService::GetAllTest()</Name>
               <FileRef uid="10" />
@@ -1620,11 +1641,14 @@
                 <SequencePoint vc="0" uspid="578" ordinal="6" offset="36" sl="230" sc="13" el="230" ec="14" bec="0" bev="0" fileid="10" />
                 <SequencePoint vc="0" uspid="579" ordinal="7" offset="37" sl="231" sc="17" el="231" ec="61" bec="0" bev="0" fileid="10" />
                 <SequencePoint vc="0" uspid="580" ordinal="8" offset="56" sl="232" sc="13" el="232" ec="14" bec="0" bev="0" fileid="10" />
-                <SequencePoint vc="0" uspid="581" ordinal="9" offset="57" sl="229" sc="30" el="229" ec="32" bec="0" bev="0" fileid="10" />
+                <SequencePoint vc="0" uspid="581" ordinal="9" offset="57" sl="229" sc="30" el="229" ec="32" bec="2" bev="0" fileid="10" />
                 <SequencePoint vc="0" uspid="582" ordinal="10" offset="78" sl="233" sc="13" el="233" ec="28" bec="0" bev="0" fileid="10" />
                 <SequencePoint vc="0" uspid="583" ordinal="11" offset="83" sl="234" sc="9" el="234" ec="10" bec="0" bev="0" fileid="10" />
               </SequencePoints>
-              <BranchPoints />
+              <BranchPoints>
+                <BranchPoint vc="0" uspid="584" ordinal="0" offset="63" sl="229" path="0" offsetend="65" fileid="10" />
+                <BranchPoint vc="0" uspid="585" ordinal="1" offset="63" sl="229" path="1" offsetend="29" fileid="10" />
+              </BranchPoints>
               <MethodPoint xsi:type="SequencePoint" vc="0" uspid="572" ordinal="0" offset="0" sl="226" sc="9" el="226" ec="10" bec="0" bev="0" fileid="10" />
             </Method>
             <Method visited="false" cyclomaticComplexity="1" nPathComplexity="0" sequenceCoverage="0" branchCoverage="0" crapScore="2" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
@@ -1851,7 +1875,7 @@
     </Module>
     <Module hash="1F-97-36-1A-51-AB-B0-69-07-C5-42-F7-F2-17-12-B9-D3-85-1A-88">
       <Summary numSequencePoints="4041" visitedSequencePoints="576" numBranchPoints="3337" visitedBranchPoints="377" sequenceCoverage="14.25" branchCoverage="11.30" maxCyclomaticComplexity="34" minCyclomaticComplexity="1" maxCrapScore="812" minCrapScore="1" visitedClasses="60" numClasses="272" visitedMethods="189" numMethods="1289" />
-      <ModulePath>C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Petzey.Appointment\PetzeyConsultationService\Petzey.Consultations.UnitTest\bin\Debug\fine-code-coverage\build-output\Moq.dll</ModulePath>
+      <ModulePath>C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Consultations.UnitTest\bin\Debug\fine-code-coverage\build-output\Moq.dll</ModulePath>
       <ModuleTime>2022-08-02T19:20:10Z</ModuleTime>
       <ModuleName>Moq</ModuleName>
       <Files>
@@ -25196,7 +25220,7 @@
     </Module>
     <Module hash="18-E8-A5-A8-56-9B-F5-8C-7C-3A-85-4C-A0-74-C0-04-F0-6E-E1-12">
       <Summary numSequencePoints="258" visitedSequencePoints="0" numBranchPoints="66" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="3" minCyclomaticComplexity="1" maxCrapScore="12" minCrapScore="2" visitedClasses="0" numClasses="8" visitedMethods="0" numMethods="58" />
-      <ModulePath>C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Petzey.Appointment\PetzeyConsultationService\Petzey.Consultations.UnitTest\bin\Debug\fine-code-coverage\build-output\Petzey.Repository.Consultations.dll</ModulePath>
+      <ModulePath>C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Consultations.UnitTest\bin\Debug\fine-code-coverage\build-output\Petzey.Repository.Consultations.dll</ModulePath>
       <ModuleTime>2022-08-19T05:41:47.9555704Z</ModuleTime>
       <ModuleName>Petzey.Repository.Consultations</ModuleName>
       <Files>
@@ -26370,7 +26394,7 @@
     </Module>
     <Module hash="C3-FD-3D-0C-62-31-B4-18-3A-6B-B4-2F-21-71-E2-07-BF-CC-6F-A2">
       <Summary numSequencePoints="113" visitedSequencePoints="46" numBranchPoints="100" visitedBranchPoints="33" sequenceCoverage="40.71" branchCoverage="33" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="1" visitedClasses="5" numClasses="9" visitedMethods="33" numMethods="100" />
-      <ModulePath>C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Petzey.Appointment\PetzeyConsultationService\Petzey.Consultations.UnitTest\bin\Debug\fine-code-coverage\build-output\Petzey.Model.Consultations.dll</ModulePath>
+      <ModulePath>C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Consultations.UnitTest\bin\Debug\fine-code-coverage\build-output\Petzey.Model.Consultations.dll</ModulePath>
       <ModuleTime>2022-08-19T03:28:09.6622172Z</ModuleTime>
       <ModuleName>Petzey.Model.Consultations</ModuleName>
       <Files>
@@ -27612,7 +27636,7 @@
     </Module>
     <Module hash="14-A5-35-5C-8D-2F-33-F6-9C-1D-24-9B-7F-4F-EC-1B-14-39-E8-F1">
       <Summary numSequencePoints="150" visitedSequencePoints="26" numBranchPoints="150" visitedBranchPoints="26" sequenceCoverage="17.33" branchCoverage="17.33" maxCyclomaticComplexity="1" minCyclomaticComplexity="1" maxCrapScore="2" minCrapScore="1" visitedClasses="5" numClasses="14" visitedMethods="26" numMethods="150" />
-      <ModulePath>C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Petzey.Appointment\PetzeyConsultationService\Petzey.Consultations.UnitTest\bin\Debug\fine-code-coverage\build-output\Petzey.DTO.Consultations.dll</ModulePath>
+      <ModulePath>C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Consultations.UnitTest\bin\Debug\fine-code-coverage\build-output\Petzey.DTO.Consultations.dll</ModulePath>
       <ModuleTime>2022-08-19T19:20:54.7954462Z</ModuleTime>
       <ModuleName>Petzey.DTO.Consultations</ModuleName>
       <Files>
@@ -29482,7 +29506,7 @@
     </Module>
     <Module hash="64-38-19-48-70-DA-CE-5F-AD-D4-61-50-00-4F-42-F0-4C-F0-A5-A6">
       <Summary numSequencePoints="257" visitedSequencePoints="10" numBranchPoints="69" visitedBranchPoints="3" sequenceCoverage="3.89" branchCoverage="4.35" maxCyclomaticComplexity="4" minCyclomaticComplexity="1" maxCrapScore="20" minCrapScore="1" visitedClasses="1" numClasses="9" visitedMethods="2" numMethods="35" />
-      <ModulePath>C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Petzey.Appointment\PetzeyConsultationService\Petzey.Consultations.UnitTest\bin\Debug\fine-code-coverage\build-output\Petzey.Consultations.API.dll</ModulePath>
+      <ModulePath>C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.Consultations.UnitTest\bin\Debug\fine-code-coverage\build-output\Petzey.Consultations.API.dll</ModulePath>
       <ModuleTime>2022-08-19T19:20:55.4675816Z</ModuleTime>
       <ModuleName>Petzey.Consultations.API</ModuleName>
       <Files>

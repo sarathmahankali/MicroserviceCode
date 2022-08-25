@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage line-rate="0.20053164977571025" branch-rate="0.10166358595194085" lines-covered="1207" lines-valid="6019" branches-covered="220" branches-valid="2164" complexity="2205" version="0" timestamp="1661005896">
+<coverage line-rate="0.20053164977571025" branch-rate="0.10357470210815765" lines-covered="1207" lines-valid="6019" branches-covered="226" branches-valid="2182" complexity="2205" version="0" timestamp="1661188842">
   <sources />
   <packages>
     <package name="Moq" line-rate="0.14455031373460375" branch-rate="0.091796875" complexity="1937">
@@ -3957,7 +3957,7 @@
         </class>
       </classes>
     </package>
-    <package name="Petzey.Bussiness.Consultations" line-rate="0.1733615221987315" branch-rate="0.3958333333333333" complexity="107">
+    <package name="Petzey.Bussiness.Consultations" line-rate="0.1733615221987315" branch-rate="0.3787878787878788" complexity="107">
       <classes>
         <class name="Petzey.Bussiness.Consultations.Exceptions.NotFoundException" filename="C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Petzey.Appointment\PetzeyConsultationService\Petzey.Bussiness.Consultations\Exceptions\NotFoundException.cs" line-rate="0" branch-rate="1" complexity="NaN">
           <methods>
@@ -4011,7 +4011,7 @@
             <line number="19" hits="0" branch="false" />
           </lines>
         </class>
-        <class name="Petzey.Bussiness.Consultations.Implementations.AppointmentService" filename="C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Petzey.Appointment\PetzeyConsultationService\Petzey.Bussiness.Consultations\Implementations\AppointmentService.cs" line-rate="0.4662576687116564" branch-rate="0.5" complexity="9">
+        <class name="Petzey.Bussiness.Consultations.Implementations.AppointmentService" filename="C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Petzey.Appointment\PetzeyConsultationService\Petzey.Bussiness.Consultations\Implementations\AppointmentService.cs" line-rate="0.4662576687116564" branch-rate="0.5208333333333334" complexity="9">
           <methods>
             <method name=".ctor" signature="(Petzey.Repository.Consultations.Interfaces.IAppointmentRepository,Petzey.Bussiness.Consultations.MappingService.Interfaces.IAppointmentMappingService,Petzey.Repository.Consultations.Interfaces.IPrescriptionRepository,Petzey.Repository.Consultations.Interfaces.IVitalRepository,Petzey.Repository.Consultations.Interfaces.ITestRepository,Petzey.Repository.Consultations.Interfaces.ISymptomRepository)" line-rate="1" branch-rate="1" complexity="NaN">
               <lines>
@@ -4056,7 +4056,7 @@
                 <line number="75" hits="4" branch="false" />
                 <line number="76" hits="4" branch="false" />
                 <line number="77" hits="4" branch="false" />
-                <line number="78" hits="18" branch="false" />
+                <line number="78" hits="18" branch="true" condition-coverage="100% (2/2)" />
                 <line number="79" hits="3" branch="false" />
                 <line number="80" hits="3" branch="false" />
                 <line number="81" hits="3" branch="false" />
@@ -4084,7 +4084,7 @@
                 <line number="102" hits="3" branch="false" />
               </lines>
             </method>
-            <method name="GetAllAppointmentsByRoleId" signature="(System.Int32,System.String,System.DateTime,System.DateTime)" line-rate="0.65" branch-rate="0.4" complexity="NaN">
+            <method name="GetAllAppointmentsByRoleId" signature="(System.Int32,System.String,System.DateTime,System.DateTime)" line-rate="0.65" branch-rate="0.5" complexity="NaN">
               <lines>
                 <line number="105" hits="2" branch="false" />
                 <line number="106" hits="2" branch="false" />
@@ -4100,7 +4100,7 @@
                 <line number="122" hits="2" branch="true" condition-coverage="50% (2/4)" />
                 <line number="123" hits="0" branch="false" />
                 <line number="124" hits="0" branch="false" />
-                <line number="126" hits="16" branch="false" />
+                <line number="126" hits="16" branch="true" condition-coverage="100% (2/2)" />
                 <line number="127" hits="5" branch="false" />
                 <line number="128" hits="5" branch="false" />
                 <line number="129" hits="5" branch="false" />
@@ -4138,7 +4138,7 @@
                 <line number="154" hits="0" branch="true" condition-coverage="0% (0/4)" />
                 <line number="155" hits="0" branch="false" />
                 <line number="156" hits="0" branch="false" />
-                <line number="158" hits="0" branch="false" />
+                <line number="158" hits="0" branch="true" condition-coverage="0% (0/2)" />
                 <line number="159" hits="0" branch="false" />
                 <line number="160" hits="0" branch="false" />
                 <line number="161" hits="0" branch="false" />
@@ -4146,13 +4146,13 @@
                 <line number="163" hits="0" branch="false" />
               </lines>
             </method>
-            <method name="GetAllAppointments" signature="()" line-rate="1" branch-rate="0.5" complexity="5">
+            <method name="GetAllAppointments" signature="()" line-rate="1" branch-rate="0.6666666666666666" complexity="5">
               <lines>
                 <line number="166" hits="1" branch="false" />
                 <line number="167" hits="1" branch="false" />
                 <line number="168" hits="1" branch="false" />
                 <line number="169" hits="1" branch="true" condition-coverage="50% (2/4)" />
-                <line number="170" hits="9" branch="false" />
+                <line number="170" hits="9" branch="true" condition-coverage="100% (2/2)" />
                 <line number="171" hits="3" branch="false" />
                 <line number="172" hits="3" branch="false" />
                 <line number="173" hits="3" branch="false" />
@@ -4221,12 +4221,12 @@
                 <line number="223" hits="0" branch="false" />
               </lines>
             </method>
-            <method name="GetAllTest" signature="()" line-rate="0" branch-rate="1" complexity="3">
+            <method name="GetAllTest" signature="()" line-rate="0" branch-rate="0" complexity="3">
               <lines>
                 <line number="226" hits="0" branch="false" />
                 <line number="227" hits="0" branch="false" />
                 <line number="228" hits="0" branch="false" />
-                <line number="229" hits="0" branch="false" />
+                <line number="229" hits="0" branch="true" condition-coverage="0% (0/2)" />
                 <line number="230" hits="0" branch="false" />
                 <line number="231" hits="0" branch="false" />
                 <line number="232" hits="0" branch="false" />
@@ -4295,7 +4295,7 @@
             <line number="75" hits="4" branch="false" />
             <line number="76" hits="4" branch="false" />
             <line number="77" hits="4" branch="false" />
-            <line number="78" hits="18" branch="false" />
+            <line number="78" hits="18" branch="true" condition-coverage="100% (2/2)" />
             <line number="79" hits="3" branch="false" />
             <line number="80" hits="3" branch="false" />
             <line number="81" hits="3" branch="false" />
@@ -4331,7 +4331,7 @@
             <line number="122" hits="2" branch="true" condition-coverage="50% (2/4)" />
             <line number="123" hits="0" branch="false" />
             <line number="124" hits="0" branch="false" />
-            <line number="126" hits="16" branch="false" />
+            <line number="126" hits="16" branch="true" condition-coverage="100% (2/2)" />
             <line number="127" hits="5" branch="false" />
             <line number="128" hits="5" branch="false" />
             <line number="129" hits="5" branch="false" />
@@ -4353,7 +4353,7 @@
             <line number="154" hits="0" branch="true" condition-coverage="0% (0/4)" />
             <line number="155" hits="0" branch="false" />
             <line number="156" hits="0" branch="false" />
-            <line number="158" hits="0" branch="false" />
+            <line number="158" hits="0" branch="true" condition-coverage="0% (0/2)" />
             <line number="159" hits="0" branch="false" />
             <line number="160" hits="0" branch="false" />
             <line number="161" hits="0" branch="false" />
@@ -4363,7 +4363,7 @@
             <line number="167" hits="1" branch="false" />
             <line number="168" hits="1" branch="false" />
             <line number="169" hits="1" branch="true" condition-coverage="50% (2/4)" />
-            <line number="170" hits="9" branch="false" />
+            <line number="170" hits="9" branch="true" condition-coverage="100% (2/2)" />
             <line number="171" hits="3" branch="false" />
             <line number="172" hits="3" branch="false" />
             <line number="173" hits="3" branch="false" />
@@ -4405,7 +4405,7 @@
             <line number="226" hits="0" branch="false" />
             <line number="227" hits="0" branch="false" />
             <line number="228" hits="0" branch="false" />
-            <line number="229" hits="0" branch="false" />
+            <line number="229" hits="0" branch="true" condition-coverage="0% (0/2)" />
             <line number="230" hits="0" branch="false" />
             <line number="231" hits="0" branch="false" />
             <line number="232" hits="0" branch="false" />
@@ -4648,11 +4648,11 @@
                 <line number="75" hits="0" branch="false" />
               </lines>
             </method>
-            <method name="ConvertToListSymptomDTO" signature="(System.Collections.Generic.ICollection`1&lt;Petzey.Model.Consultations.Symptom&gt;)" line-rate="0" branch-rate="1" complexity="NaN">
+            <method name="ConvertToListSymptomDTO" signature="(System.Collections.Generic.ICollection`1&lt;Petzey.Model.Consultations.Symptom&gt;)" line-rate="0" branch-rate="0" complexity="NaN">
               <lines>
                 <line number="78" hits="0" branch="false" />
                 <line number="79" hits="0" branch="false" />
-                <line number="80" hits="0" branch="false" />
+                <line number="80" hits="0" branch="true" condition-coverage="0% (0/2)" />
                 <line number="81" hits="0" branch="false" />
                 <line number="82" hits="0" branch="false" />
                 <line number="83" hits="0" branch="false" />
@@ -4687,11 +4687,11 @@
                 <line number="108" hits="0" branch="false" />
               </lines>
             </method>
-            <method name="ConvertToListTestDTO" signature="(System.Collections.Generic.ICollection`1&lt;Petzey.Model.Consultations.Test&gt;)" line-rate="0" branch-rate="1" complexity="NaN">
+            <method name="ConvertToListTestDTO" signature="(System.Collections.Generic.ICollection`1&lt;Petzey.Model.Consultations.Test&gt;)" line-rate="0" branch-rate="0" complexity="NaN">
               <lines>
                 <line number="111" hits="0" branch="false" />
                 <line number="112" hits="0" branch="false" />
-                <line number="113" hits="0" branch="false" />
+                <line number="113" hits="0" branch="true" condition-coverage="0% (0/2)" />
                 <line number="114" hits="0" branch="false" />
                 <line number="115" hits="0" branch="false" />
                 <line number="116" hits="0" branch="false" />
@@ -4880,7 +4880,7 @@
             <line number="75" hits="0" branch="false" />
             <line number="78" hits="0" branch="false" />
             <line number="79" hits="0" branch="false" />
-            <line number="80" hits="0" branch="false" />
+            <line number="80" hits="0" branch="true" condition-coverage="0% (0/2)" />
             <line number="81" hits="0" branch="false" />
             <line number="82" hits="0" branch="false" />
             <line number="83" hits="0" branch="false" />
@@ -4907,7 +4907,7 @@
             <line number="108" hits="0" branch="false" />
             <line number="111" hits="0" branch="false" />
             <line number="112" hits="0" branch="false" />
-            <line number="113" hits="0" branch="false" />
+            <line number="113" hits="0" branch="true" condition-coverage="0% (0/2)" />
             <line number="114" hits="0" branch="false" />
             <line number="115" hits="0" branch="false" />
             <line number="116" hits="0" branch="false" />
@@ -5073,11 +5073,11 @@
                 <line number="31" hits="0" branch="false" />
               </lines>
             </method>
-            <method name="ConvertToListOfMedicine" signature="(System.Collections.Generic.ICollection`1&lt;Petzey.DTO.Consultations.AddMedicineDTO&gt;)" line-rate="0" branch-rate="1" complexity="NaN">
+            <method name="ConvertToListOfMedicine" signature="(System.Collections.Generic.ICollection`1&lt;Petzey.DTO.Consultations.AddMedicineDTO&gt;)" line-rate="0" branch-rate="0" complexity="NaN">
               <lines>
                 <line number="34" hits="0" branch="false" />
                 <line number="35" hits="0" branch="false" />
-                <line number="36" hits="0" branch="false" />
+                <line number="36" hits="0" branch="true" condition-coverage="0% (0/2)" />
                 <line number="37" hits="0" branch="false" />
                 <line number="38" hits="0" branch="false" />
                 <line number="39" hits="0" branch="false" />
@@ -5085,11 +5085,11 @@
                 <line number="41" hits="0" branch="false" />
               </lines>
             </method>
-            <method name="ConvertToListOfMedicineDTO" signature="(System.Collections.Generic.ICollection`1&lt;Petzey.Model.Consultations.Medicine&gt;)" line-rate="0" branch-rate="1" complexity="NaN">
+            <method name="ConvertToListOfMedicineDTO" signature="(System.Collections.Generic.ICollection`1&lt;Petzey.Model.Consultations.Medicine&gt;)" line-rate="0" branch-rate="0" complexity="NaN">
               <lines>
                 <line number="43" hits="0" branch="false" />
                 <line number="44" hits="0" branch="false" />
-                <line number="45" hits="0" branch="false" />
+                <line number="45" hits="0" branch="true" condition-coverage="0% (0/2)" />
                 <line number="46" hits="0" branch="false" />
                 <line number="47" hits="0" branch="false" />
                 <line number="48" hits="0" branch="false" />
@@ -5163,7 +5163,7 @@
             <line number="31" hits="0" branch="false" />
             <line number="34" hits="0" branch="false" />
             <line number="35" hits="0" branch="false" />
-            <line number="36" hits="0" branch="false" />
+            <line number="36" hits="0" branch="true" condition-coverage="0% (0/2)" />
             <line number="37" hits="0" branch="false" />
             <line number="38" hits="0" branch="false" />
             <line number="39" hits="0" branch="false" />
@@ -5171,7 +5171,7 @@
             <line number="41" hits="0" branch="false" />
             <line number="43" hits="0" branch="false" />
             <line number="44" hits="0" branch="false" />
-            <line number="45" hits="0" branch="false" />
+            <line number="45" hits="0" branch="true" condition-coverage="0% (0/2)" />
             <line number="46" hits="0" branch="false" />
             <line number="47" hits="0" branch="false" />
             <line number="48" hits="0" branch="false" />
@@ -9116,7 +9116,6 @@
                 <line number="68" hits="0" branch="false" />
                 <line number="69" hits="0" branch="false" />
                 <line number="70" hits="0" branch="false" />
-                <line number="72" hits="0" branch="false" />
               </lines>
             </method>
           </methods>
@@ -9162,7 +9161,6 @@
             <line number="68" hits="0" branch="false" />
             <line number="69" hits="0" branch="false" />
             <line number="70" hits="0" branch="false" />
-            <line number="72" hits="0" branch="false" />
           </lines>
         </class>
         <class name="Petzey.Repository.Consultations.Migrations.Configuration" filename="C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Petzey.Appointment\PetzeyConsultationService\Petzey.Repository.Consultations\Migrations\Configuration.cs" line-rate="0" branch-rate="1" complexity="1">

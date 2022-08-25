@@ -103,10 +103,10 @@ namespace Petzey.Consultations.API.Controllers
         /// <returns></returns>
         [HttpGet]
         [Route("GetAppointmentsByStatus/{vetId}/{status}/{FromDate}/{ToDate}")]
-        [ResponseType(typeof(AppointmentBasicDetailsDTO))]
+        [ResponseType(typeof(AppointmentCardDTO))]
         public IHttpActionResult GetAllAppointmentBasedOnStatus(int vetId, string status, DateTime FromDate, DateTime ToDate)
         {
-            ICollection<AppointmentBasicDetailsDTO> appointments = service.GetAllAppointmentFiltered(vetId, status, FromDate, ToDate);
+            ICollection<AppointmentCardDTO> appointments = service.GetAllAppointmentFiltered(vetId, status, FromDate, ToDate);
 
             if (appointments.Count() == 0)
             {

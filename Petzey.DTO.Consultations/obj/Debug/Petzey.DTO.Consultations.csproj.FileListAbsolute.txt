@@ -43,3 +43,12 @@ C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Petzey.Appointment\Petze
 C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Petzey.Appointment\PetzeyConsultationService\Petzey.DTO.Consultations\obj\Debug\Petzey.DTO.Consultations.csproj.CopyComplete
 C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Petzey.Appointment\PetzeyConsultationService\Petzey.DTO.Consultations\obj\Debug\Petzey.DTO.Consultations.dll
 C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Petzey.Appointment\PetzeyConsultationService\Petzey.DTO.Consultations\obj\Debug\Petzey.DTO.Consultations.pdb
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.DTO.Consultations\bin\Debug\Petzey.DTO.Consultations.dll
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.DTO.Consultations\bin\Debug\Petzey.DTO.Consultations.pdb
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.DTO.Consultations\bin\Debug\Petzey.Model.Consultations.dll
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.DTO.Consultations\bin\Debug\Petzey.Model.Consultations.pdb
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.DTO.Consultations\obj\Debug\Petzey.DTO.Consultations.csproj.AssemblyReference.cache
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.DTO.Consultations\obj\Debug\Petzey.DTO.Consultations.csproj.CoreCompileInputs.cache
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.DTO.Consultations\obj\Debug\Petzey.DTO.Consultations.csproj.CopyComplete
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.DTO.Consultations\obj\Debug\Petzey.DTO.Consultations.dll
+C:\Users\Sarath\Desktop\Petzey Final\Petzey.Appointment\Git Push\Git App MIcro\Final-Consultation-21-08-22\Petzey.DTO.Consultations\obj\Debug\Petzey.DTO.Consultations.pdb

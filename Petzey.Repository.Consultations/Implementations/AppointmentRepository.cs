@@ -74,13 +74,13 @@ namespace Petzey.Repository.Consultations
 
         public ICollection<Appointment> GetAllAppointmentsByPetParentIdandStatus(int petParentId,AppointmentStatus status)
         {
-            var appointments = db.Appointments.Include(x => x.Pet).Include(x => x.VetDetails).Where(x => x.PetParent.PetParentId == petParentId && x.Status == status).OrderByDescending(x => x.AppointmentDate).OrderByDescending(x => x.AppointmentTime).ToList();
+            var appointments = db.Appointments.Include(x => x.Pet).Include(x => x.VetDetails).Include(x=>x.PetParent).Where(x => x.PetParent.PetParentId == petParentId && x.Status == status).OrderByDescending(x => x.AppointmentDate).OrderByDescending(x => x.AppointmentTime).ToList();
             return appointments;
         }
 
         public ICollection<Appointment> GetAllAppointmentFilterWithStatus(int doctorId, AppointmentStatus status, DateTime FromDate, DateTime ToDate)
         {
-            var appointments = db.Appointments.Include(x => x.Pet).Include(x => x.PetParent).Where(a => a.VetDetails.VetId == doctorId && a.Status == status && a.AppointmentDate >= FromDate && a.AppointmentDate <= ToDate).OrderByDescending(x => x.AppointmentDate).OrderByDescending(x => x.AppointmentTime).ToList();
+            var appointments = db.Appointments.Include(x => x.Pet).Include(x => x.PetParent).Include(x=>x.VetDetails).Where(a => a.VetDetails.VetId == doctorId && a.Status == status && a.AppointmentDate >= FromDate && a.AppointmentDate <= ToDate).OrderByDescending(x => x.AppointmentDate).OrderByDescending(x => x.AppointmentTime).ToList();
             return appointments;
         }
 
